@@ -1,2 +1,2 @@
 # swethaogeti-website
- A demo website to showcase my portfolio
+ A Demo website to showcase my portfolio
